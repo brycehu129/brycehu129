@@ -95,7 +95,7 @@ Rather than positioning myself as a <b>Backend / Full-Stack / Engineer</b>, I pr
 ### 🏊 More repositories
 
 <details open>
-<summary>点击展开 ...</summary>
+<summary>Click to expand ...</summary>
 
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
